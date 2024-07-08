@@ -1,0 +1,90 @@
+@media (max-width: 1200px) {
+    /* Custom CSS */
+    h1 { font-size: 2.1875rem !important; }
+    h2 { font-size: 1.1875rem !important; }
+    h3 { 
+        font-size: 1.25rem !important; 
+        line-height: 2rem; 
+    }
+    h4 { 
+        font-size: 1.125rem !important; 
+        line-height: 1.2rem; 
+    }
+    .main-btn { padding: 0.5rem 0.9375rem !important; }
+    .wrapper { padding: 4.25rem 3.25rem !important; }
+
+    /* Navbar Section */
+    .navigation-wrap .navbar-brand img { width: 6.25rem !important; }
+    .navigation-wrap .navbar-expand-lg .navbar-nav .nav-link { font-size: 0.875rem !important; }
+
+    /* Services Section */
+    .services-section .services-cards { margin-top: 4.4286rem; }
+    .services-section .card { 
+        padding: 3.4375rem 0 0;
+        margin-bottom: 1.25rem;
+    }
+    .services-section .card img {
+        width: 6.25rem;
+        height: 6.25rem;
+    }
+}
+
+@media  (max-width: 992px) {
+    /* Custom CSS */
+    p, a { font-size: 0.75rem !important; }
+
+    /* Navbar */
+    .header-top { display: none !important; }
+    .navbar .navbar-toggler { color: var(--text-white) !important; }
+    .navbar { 
+        text-align: center !important;
+        background-color: var(--black-color) !important;
+    }
+    .navigation-wrap .nav-link { line-height: 1.875rem; }
+
+    /* Top Banner */
+    .top-banner { padding: 6.375rem 0 4.375rem !important; }
+
+    /* About Us */
+    .about-section { text-align: center; }
+    .about-section span::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /* Features */
+    .features-section .card .price { font-size: 1.125rem; }   
+
+    /* Newsletter */
+    .newsletter-section .form-group input { height: 3.2857rem; }
+}
+
+@media (max-width: 767px) {
+    /* Custom CSS */
+    h1 { font-size: 1.5625rem !important; }
+    h2 { font-size: 1.25rem !important; }
+    h3 { font-size: 1.125rem !important; }
+    h4 { font-size: 1rem !important; }
+    span { font-size: 0.875rem !important;}
+    .main-btn { 
+        font-size: 0.75rem !important;
+        line-height: 1rem;
+        padding: 0.5rem 0.625rem !important; 
+    }
+    .wrapper { padding: 3.25rem 0 2.25rem !important; }
+
+    /* Services */
+    .services-section .card { margin-bottom: 2.5rem; }
+
+    /* Features */
+    .features-section .card .price { font-size: 0.875rem; }
+
+    /* Download App */
+    .download-app-btn img { 
+        max-width: 9rem;
+        width: 100%;
+    }
+
+    /* Footer */
+    footer .footer-links, footer a { padding: 0 0.5rem; }
+}
