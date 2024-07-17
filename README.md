@@ -17,7 +17,7 @@ This repository contains the code for a restaurant or coffee shop website built 
 - **Responsive Design:** Optimized for various screen sizes, providing a seamless experience across devices.
 - **Smooth Scrolling:** Enhances user navigation and overall experience.
 - **Custom Fonts:** Utilizes "Poppins" and "Nunito Sans" for a modern and clean look.
-- **Color Scheme:** Features a vibrant palette with shades of blue, cyan, white, orange, green, and red.
+- **Color Scheme:** Features a vibrant palette of red, yellow, black and white.
 - **Multiple Sections:** Includes sections for the menu, about us, services, features, delivery, app download, and newsletter subscription.
 
 ## Technologies Used
