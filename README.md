@@ -78,6 +78,8 @@ Here is a screenshot of the website:
 
 ### Full Website
 
+You can view the website on your browser by clicking [Demo](https://main--demo-restaurant-coffeeshop-website.netlify.app)
+
 ![Full website](/screenshots/restaurantCoffeeShop.png)
 
 ## Contributing
